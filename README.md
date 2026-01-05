@@ -2,7 +2,7 @@
 # Australian Open Tennis Championship: A Data Visualization Project
 
 ## Project Overview
-This project presents a comprehensive visual analysis of the Australian Open Tennis Championship, spanning 120 years of tournament history (1905–2025). Using Tableau, I transformed raw match data into interactive, insightful visualizations that reveal historical trends, national dominance patterns, and the characteristics of elite champions.
+This project presents a comprehensive visual analysis of the Australian Open Tennis Championship, spanning 120 years of tournament history (1905-2025). Using Tableau, I transformed raw match data into interactive, insightful visualizations that reveal historical trends, national dominance patterns, and the characteristics of elite champions.
 
 The analysis covers:
 - **Global tennis power distribution** across nations
@@ -56,13 +56,13 @@ The analysis covers:
 
 ### Elite Champions (5+ Titles)
 Only 7 players have won 5+ Australian Open titles:
-- **Margaret Court** (11) – pre-Open Era dominance
-- **Novak Djokovic** (10) – modern-era longevity
-- **Serena Williams** (7) – most successful woman in professional era
+- **Margaret Court** (11) - pre-Open Era dominance
+- **Novak Djokovic** (10) - modern-era longevity
+- **Serena Williams** (7) - most successful woman in professional era
 - **Roy Emerson, Roger Federer, Nancye Wynne Bolton, Daphne Akhurst**
 
 ### Career Longevity
-- Modern champions (Djokovic, Federer, S. Williams) have career spans of **14–17 years**.
+- Modern champions (Djokovic, Federer, S. Williams) have career spans of **14-17 years**.
 - Historical champions had shorter, more concentrated periods of dominance.
 
 ### Match Dynamics
